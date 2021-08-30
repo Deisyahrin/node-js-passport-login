@@ -1,0 +1,32 @@
+.password,
+#password,
+.email,
+#email {
+  text-align: center;
+  font-size: 100%;
+}
+
+.submit {
+  text-align: center;
+  font-size: 100%;
+  padding-top: 10%;
+}
+
+.register {
+  text-align: center;
+  font-size: 100%;
+}
+
+#password,
+#email {
+  padding-right: 88%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.start {
+  background-image: url(/images/Login/950239.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 96vh;
+}

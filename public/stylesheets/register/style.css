@@ -1,0 +1,35 @@
+.password,
+#password,
+.email,
+#email,
+.name,
+#name {
+  text-align: center;
+  font-size: 100%;
+}
+
+.submit {
+  text-align: center;
+  font-size: 100%;
+  padding-top: 10%;
+}
+
+.login {
+  text-align: center;
+  font-size: 100%;
+}
+
+#password,
+#email,
+#name {
+  padding-right: 88%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.start {
+  background-image: url(/images/Register/Dota.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 96vh;
+}
